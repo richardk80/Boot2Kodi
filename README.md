@@ -25,13 +25,3 @@ The following instructions are based on the last version of Ubuntu.
 4. `cd Boot2Kodi`
 5. Run the installation script `sudo sh ./install.sh`
 6. Reboot
-
-
-@chrisyokum, thanks for your input and help.
-
-#### If you liked my work, buy me a beer: <br>  BTC:  <br>
-![alt text][logo]
-
-[logo]: https://raw.githubusercontent.com/abacao/minibian-debian-stretch/master/donate.png "Donate"
-
-1AsjyioL6TkRLxSEfUUQLTBE2jcYDkP2wE
